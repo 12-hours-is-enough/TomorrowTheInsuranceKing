@@ -94,12 +94,29 @@
 <br><br>
 
 ## 📈 시각화 분석
+### 보험 권유 방식
 ![image](https://github.com/user-attachments/assets/01e5bf3f-8cea-462c-aaaf-10941809392a)
+<br>
+
+### 여행자 보험
 ![image](https://github.com/user-attachments/assets/eed5bb5c-0df6-4c59-ba00-3f9401c8b551)
+<br>
+
+### 자동차 보험
 ![image](https://github.com/user-attachments/assets/29dafc2b-9f77-49ac-8e20-4958b6d2fad3)
+<br>
+
+### 유병자 보험
 ![image](https://github.com/user-attachments/assets/77809033-7c0e-46ea-8c84-32836977fb36)
+<br>
+
+### 자녀 보험
 ![image](https://github.com/user-attachments/assets/074bd41d-495f-454f-a0f8-41d655c0940f)
+<br>
+
+### 은퇴 보험
 ![image](https://github.com/user-attachments/assets/4a7a6fc0-8dbd-4c2a-a435-f325e985c899)
+<br><br>
 
 
 
